@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<gpx version="1.0" creator="ExpertGPS 1.1.1 - http://www.topografix.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1">
+<name>Middlesex Fells Bike Loop</name>
+<desc>The Mountain Bike Loop at the Middlesex Fells.
+Being so close to Boston, the Fells is a popular place to ride.  Unfortunately, irresponsible mountain bike use has resulted in lots of erosion and the closure of most of the reservation to mountain bikes.  Bikes are restricted to the Mountain Bike Loop, and doubletrack (fire-roads) on the West side of Interstate 93.
+If you ride the Fells, ride legally and during off-peak hours, and encourage others to do the same.
+</desc>
+<author>Dan Foster</author>
+<email>trails@topografix.com</email>
+<url>http://www.nemba.org/ridingzone/fells.html</url>
+<urlname>Middlesex Fells description at NEMBA</urlname>
+<time>2002-04-19T02:54:45Z</time>
+<keywords>mountain biking, fells, middlesex fells, winchester</keywords>
+<bounds minlat="42.401051" minlon="-71.126602" maxlat="42.468655" maxlon="-71.102973">
+</bounds>
+<wpt lat="42.438878" lon="-71.119277">
+<ele>44.586548</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5066</name>
+<cmt>5066</cmt>
+<desc>5066</desc>
+<sym>Crossing</sym>
+<type>Crossing</type>
+</wpt>
+<wpt lat="42.439227" lon="-71.119689">
+<ele>57.607200</ele>
+<time>2001-06-02T03:27:07Z</time>
+<name>5067</name>
+<cmt>5067</cmt>
+<desc>5067</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.438917" lon="-71.116146">
+<ele>44.826904</ele>
+<time>2001-11-16T23:05:10Z</time>
+<name>5096</name>
+<cmt>5096</cmt>
+<desc>5096</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.443904" lon="-71.122044">
+<ele>50.594727</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5142</name>
+<cmt>5142</cmt>
+<desc>5142</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.447298" lon="-71.121447">
+<ele>127.711200</ele>
+<time>2001-06-02T03:27:10Z</time>
+<name>5156</name>
+<cmt>5156</cmt>
+<desc>5156</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.454873" lon="-71.125094">
+<ele>96.926400</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>5224</name>
+<cmt>5224</cmt>
+<desc>5224</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.459079" lon="-71.124988">
+<ele>82.600800</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>5229</name>
+<cmt>5229</cmt>
+<desc>5229</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.456979" lon="-71.124474">
+<ele>82.905600</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>5237</name>
+<cmt>5237</cmt>
+<desc>5237</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.454401" lon="-71.120990">
+<ele>66.696655</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5254</name>
+<cmt>5254</cmt>
+<desc>5254</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.451442" lon="-71.121746">
+<ele>74.627442</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>5258</name>
+<cmt>5258</cmt>
+<desc>5258</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.454404" lon="-71.120660">
+<ele>65.254761</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5264</name>
+<cmt>5264</cmt>
+<desc>5264</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.457761" lon="-71.121045">
+<ele>77.419200</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>526708</name>
+<cmt>526708</cmt>
+<desc>526708</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.457089" lon="-71.120313">
+<ele>74.676000</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>526750</name>
+<cmt>526750</cmt>
+<desc>526750</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.456592" lon="-71.119676">
+<ele>78.713135</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>527614</name>
+<cmt>527614</cmt>
+<desc>527614</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.456252" lon="-71.119356">
+<ele>78.713135</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>527631</name>
+<cmt>527631</cmt>
+<desc>527631</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.458148" lon="-71.119135">
+<ele>68.275200</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>5278</name>
+<cmt>5278</cmt>
+<desc>5278</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.459377" lon="-71.117693">
+<ele>64.008000</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>5289</name>
+<cmt>5289</cmt>
+<desc>5289</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.464183" lon="-71.119828">
+<ele>52.997925</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5374FIRE</name>
+<cmt>5374FIRE</cmt>
+<desc>5374FIRE</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.465650" lon="-71.119399">
+<ele>56.388000</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>5376</name>
+<cmt>5376</cmt>
+<desc>5376</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.439018" lon="-71.114456">
+<ele>56.388000</ele>
+<time>2001-06-02T03:27:07Z</time>
+<name>6006</name>
+<cmt>600698</cmt>
+<desc>600698</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.438594" lon="-71.114803">
+<ele>46.028564</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>6006BLUE</name>
+<cmt>6006BLUE</cmt>
+<desc>6006BLUE</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.436757" lon="-71.113223">
+<ele>37.616943</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>6014MEADOW</name>
+<cmt>6014MEADOW</cmt>
+<desc>6014MEADOW</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.441754" lon="-71.113220">
+<ele>56.388000</ele>
+<time>2001-06-02T03:27:07Z</time>
+<name>6029</name>
+<cmt>6029</cmt>
+<desc>6029</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.436243" lon="-71.109075">
+<ele>50.292000</ele>
+<time>2001-06-02T03:27:17Z</time>
+<name>6053</name>
+<cmt>6053</cmt>
+<desc>6053</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.439250" lon="-71.107500">
+<ele>25.603200</ele>
+<time>2001-06-02T03:27:09Z</time>
+<name>6066</name>
+<cmt>6066</cmt>
+<desc>6066</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.439764" lon="-71.107582">
+<ele>34.442400</ele>
+<time>2001-06-02T03:27:09Z</time>
+<name>6067</name>
+<cmt>6067</cmt>
+<desc>6067</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.434766" lon="-71.105874">
+<ele>30.480000</ele>
+<time>2001-06-02T03:27:09Z</time>
+<name>6071</name>
+<cmt>6071</cmt>
+<desc>6071</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.433304" lon="-71.106599">
+<ele>15.240000</ele>
+<time>2001-06-02T03:27:08Z</time>
+<name>6073</name>
+<cmt>6073</cmt>
+<desc>6073</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.437338" lon="-71.104772">
+<ele>37.795200</ele>
+<time>2001-06-02T03:27:09Z</time>
+<name>6084</name>
+<cmt>6084</cmt>
+<desc>6084</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.442196" lon="-71.110975">
+<ele>64.008000</ele>
+<time>2001-06-02T03:27:07Z</time>
+<name>6130</name>
+<cmt>6130</cmt>
+<desc>6130</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.442981" lon="-71.111441">
+<ele>64.008000</ele>
+<time>2001-06-02T03:27:10Z</time>
+<name>6131</name>
+<cmt>6131</cmt>
+<desc>6131</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.444773" lon="-71.108882">
+<ele>62.788800</ele>
+<time>2001-06-02T03:27:17Z</time>
+<name>6153</name>
+<cmt>6153</cmt>
+<desc>6153</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.443592" lon="-71.106301">
+<ele>55.473600</ele>
+<time>2001-06-02T03:27:17Z</time>
+<name>6171</name>
+<cmt>6171</cmt>
+<desc>6171</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.447804" lon="-71.106624">
+<ele>62.484000</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>6176</name>
+<cmt>6176</cmt>
+<desc>6176</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.448448" lon="-71.106158">
+<ele>62.179200</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>6177</name>
+<cmt>6177</cmt>
+<desc>6177</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.453415" lon="-71.106783">
+<ele>69.799200</ele>
+<time>2001-06-02T03:27:07Z</time>
+<name>6272</name>
+<cmt>6272</cmt>
+<desc>6272</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.453434" lon="-71.107253">
+<ele>73.152000</ele>
+<time>2001-06-02T03:27:08Z</time>
+<name>6272</name>
+<cmt>6272</cmt>
+<desc>6272</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.458298" lon="-71.106771">
+<ele>70.104000</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>6278</name>
+<cmt>6278</cmt>
+<desc>6278</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.451430" lon="-71.105413">
+<ele>57.564209</ele>
+<time>2001-11-16T23:05:10Z</time>
+<name>6280</name>
+<cmt>6280</cmt>
+<desc>6280</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.453845" lon="-71.105206">
+<ele>66.696655</ele>
+<time>2001-11-16T23:05:10Z</time>
+<name>6283</name>
+<cmt>6283</cmt>
+<desc>6283</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.459986" lon="-71.106170">
+<ele>72.945191</ele>
+<time>2001-11-16T23:05:10Z</time>
+<name>6289</name>
+<cmt>6289</cmt>
+<desc>6289</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.457616" lon="-71.105116">
+<ele>72.847200</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>6297</name>
+<cmt>6297</cmt>
+<desc>6297</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.467110" lon="-71.113574">
+<ele>53.644800</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>6328</name>
+<cmt>6328</cmt>
+<desc>6328</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.464202" lon="-71.109863">
+<ele>43.891200</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>6354</name>
+<cmt>6354</cmt>
+<desc>6354</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.466459" lon="-71.110067">
+<ele>48.768000</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>635722</name>
+<cmt>635722</cmt>
+<desc>635722</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.466557" lon="-71.109410">
+<ele>49.072800</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>635783</name>
+<cmt>635783</cmt>
+<desc>635783</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.463495" lon="-71.107117">
+<ele>62.484000</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>6373</name>
+<cmt>6373</cmt>
+<desc>6373</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.401051" lon="-71.110241">
+<ele>3.962400</ele>
+<time>2001-06-02T03:27:08Z</time>
+<name>6634</name>
+<cmt>6634</cmt>
+<desc>6634</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.432621" lon="-71.106532">
+<ele>13.411200</ele>
+<time>2001-06-02T03:27:08Z</time>
+<name>6979</name>
+<cmt>6979</cmt>
+<desc>6979</desc>
+<sym>Dot</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.431033" lon="-71.107883">
+<ele>34.012085</ele>
+<time>2001-11-16T23:05:10Z</time>
+<name>6997</name>
+<cmt>6997</cmt>
+<desc>6997</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.465687" lon="-71.107360">
+<ele>87.782400</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>BEAR HILL</name>
+<cmt>BEAR HILL TOWER</cmt>
+<desc>Bear Hill Tower</desc>
+<sym>Tall Tower</sym>
+<type>Tower</type>
+</wpt>
+<wpt lat="42.430950" lon="-71.107628">
+<ele>23.469600</ele>
+<time>2001-06-02T00:18:15Z</time>
+<name>BELLEVUE</name>
+<cmt>BELLEVUE</cmt>
+<desc>Bellevue Parking Lot</desc>
+<sym>Parking Area</sym>
+<type>Parking</type>
+</wpt>
+<wpt lat="42.438666" lon="-71.114079">
+<ele>43.384766</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>6016</name>
+<cmt>BIKE LOOP CONNECTOR</cmt>
+<desc>Bike Loop Connector</desc>
+<sym>Trailhead</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.456469" lon="-71.124651">
+<ele>89.916000</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>5236BRIDGE</name>
+<cmt>BRIDGE</cmt>
+<desc>Bridge</desc>
+<sym>Bridge</sym>
+<type>Bridge</type>
+</wpt>
+<wpt lat="42.465759" lon="-71.119815">
+<ele>55.473600</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>5376BRIDGE</name>
+<cmt>BRIDGE</cmt>
+<desc>Bridge</desc>
+<sym>Bridge</sym>
+<type>Bridge</type>
+</wpt>
+<wpt lat="42.442993" lon="-71.105878">
+<ele>52.730400</ele>
+<time>2001-06-02T03:27:17Z</time>
+<name>6181CROSS</name>
+<cmt>CROSSING</cmt>
+<desc>Crossing</desc>
+<sym>Crossing</sym>
+<type>Crossing</type>
+</wpt>
+<wpt lat="42.435472" lon="-71.109664">
+<ele>45.110400</ele>
+<time>2001-06-02T03:27:17Z</time>
+<name>6042CROSS</name>
+<cmt>CROSSING</cmt>
+<desc>Crossing</desc>
+<sym>Crossing</sym>
+<type>Crossing</type>
+</wpt>
+<wpt lat="42.458516" lon="-71.103646">
+<name>DARKHOLLPO</name>
+<cmt>DARK HOLLOW POND</cmt>
+<desc>Dark Hollow Pond</desc>
+<sym>Fishing Area</sym>
+</wpt>
+<wpt lat="42.443109" lon="-71.112675">
+<ele>56.083200</ele>
+<time>2001-06-02T03:27:09Z</time>
+<name>6121DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.449866" lon="-71.119298">
+<ele>117.043200</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>5179DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.459629" lon="-71.116524">
+<ele>69.494400</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>5299DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.465485" lon="-71.119148">
+<ele>56.997600</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>5376DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.462776" lon="-71.109986">
+<ele>46.939200</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>6353DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.446793" lon="-71.108784">
+<ele>61.264800</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>6155DEAD</name>
+<cmt>DEAD END</cmt>
+<desc>Dead End</desc>
+<sym>Danger Area</sym>
+<type>Dead End</type>
+</wpt>
+<wpt lat="42.451204" lon="-71.126602">
+<ele>110.947200</ele>
+<time>2001-06-02T03:27:11Z</time>
+<name>GATE14</name>
+<cmt>GATE 14</cmt>
+<desc>Gate 14</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.458499" lon="-71.122078">
+<ele>77.724000</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>GATE16</name>
+<cmt>GATE 16</cmt>
+<desc>Gate 16</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.459376" lon="-71.119238">
+<ele>65.836800</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>GATE17</name>
+<cmt>GATE 17</cmt>
+<desc>Gate 17</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.466353" lon="-71.119240">
+<ele>57.302400</ele>
+<time>2001-06-02T03:27:14Z</time>
+<name>GATE19</name>
+<cmt>GATE 19</cmt>
+<desc>Gate 19</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.468655" lon="-71.107697">
+<ele>49.377600</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>GATE21</name>
+<cmt>GATE 21</cmt>
+<desc>Gate 21</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.456718" lon="-71.102973">
+<ele>81.076800</ele>
+<time>2001-06-02T03:27:15Z</time>
+<name>GATE24</name>
+<cmt>GATE 24</cmt>
+<desc>Gate 24</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.430847" lon="-71.107690">
+<ele>21.515015</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>GATE5</name>
+<cmt>GATE 5</cmt>
+<desc>Gate 5</desc>
+<sym>Truck Stop</sym>
+<type>Truck Stop</type>
+</wpt>
+<wpt lat="42.431240" lon="-71.109236">
+<ele>26.561890</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>GATE6</name>
+<cmt>GATE 6</cmt>
+<desc>Gate 6</desc>
+<sym>Trailhead</sym>
+<type>Trail Head</type>
+</wpt>
+<wpt lat="42.439502" lon="-71.106556">
+<ele>32.004000</ele>
+<time>2001-06-02T00:18:16Z</time>
+<name>6077LOGS</name>
+<cmt>LOG CROSSING</cmt>
+<desc>Log Crossing</desc>
+<sym>Amusement Park</sym>
+<type>Obstacle</type>
+</wpt>
+<wpt lat="42.449765" lon="-71.122320">
+<ele>119.809082</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>5148NANEPA</name>
+<cmt>NANEPASHEMET ROAD CROSSING</cmt>
+<desc>Nanepashemet Road Crossing</desc>
+<sym>Trailhead</sym>
+<type>Trail Head</type>
+</wpt>
+<wpt lat="42.457388" lon="-71.119845">
+<ele>73.761600</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>5267OBSTAC</name>
+<cmt>OBSTACLE</cmt>
+<desc>Obstacle</desc>
+<sym>Amusement Park</sym>
+<type>Obstacle</type>
+</wpt>
+<wpt lat="42.434980" lon="-71.109942">
+<ele>45.307495</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>PANTHRCAVE</name>
+<cmt>PANTHER CAVE</cmt>
+<desc>Panther Cave</desc>
+<sym>Tunnel</sym>
+<type>Tunnel</type>
+</wpt>
+<wpt lat="42.453256" lon="-71.121211">
+<ele>77.992066</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>5252PURPLE</name>
+<cmt>PURPLE ROCK HILL</cmt>
+<desc>Purple Rock Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.457734" lon="-71.117481">
+<ele>67.970400</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>5287WATER</name>
+<cmt>RESERVOIR</cmt>
+<desc>Reservoir</desc>
+<sym>Swimming Area</sym>
+<type>Reservoir</type>
+</wpt>
+<wpt lat="42.459278" lon="-71.124574">
+<ele>81.076800</ele>
+<time>2001-06-02T03:27:12Z</time>
+<name>5239ROAD</name>
+<cmt>ROAD</cmt>
+<desc>Road</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.458782" lon="-71.118991">
+<ele>67.360800</ele>
+<time>2001-06-02T03:27:13Z</time>
+<name>5278ROAD</name>
+<cmt>ROAD</cmt>
+<desc>Road</desc>
+<sym>Truck Stop</sym>
+<type>Road</type>
+</wpt>
+<wpt lat="42.439993" lon="-71.120925">
+<ele>53.949600</ele>
+<time>2001-06-02T00:18:14Z</time>
+<name>5058ROAD</name>
+<cmt>ROAD CROSSING</cmt>
+<desc>Road Crossing</desc>
+<sym>Dot</sym>
+<type>Road Crossing</type>
+</wpt>
+<wpt lat="42.453415" lon="-71.106782">
+<ele>69.799200</ele>
+<time>2001-06-02T00:18:13Z</time>
+<name>SHEEPFOLD</name>
+<cmt>SHEEPFOLD PARKING LOT</cmt>
+<desc>Sheepfold Parking Lot</desc>
+<sym>Parking Area</sym>
+<type>Parking</type>
+</wpt>
+<wpt lat="42.455956" lon="-71.107483">
+<ele>64.008000</ele>
+<time>2001-06-02T03:27:16Z</time>
+<name>SOAPBOX</name>
+<cmt>SOAP BOX DERBY TRACK</cmt>
+<desc>Soap Box Derby Track</desc>
+<sym>Cemetery</sym>
+<type>Intersection</type>
+</wpt>
+<wpt lat="42.465913" lon="-71.119328">
+<ele>64.533692</ele>
+<time>2001-11-07T23:55:13Z</time>
+<name>5376STREAM</name>
+<cmt>STREAM CROSSING</cmt>
+<desc>Stream Crossing</desc>
+<sym>Bridge</sym>
+<type>Bridge</type>
+</wpt>
+<wpt lat="42.445359" lon="-71.122845">
+<ele>61.649902</ele>
+<time>2001-11-28T21:06:52Z</time>
+<name>5144SUMMIT</name>
+<cmt>SUMMIT</cmt>
+<desc>Summit</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.441727" lon="-71.121676">
+<ele>67.360800</ele>
+<time>2001-06-02T00:18:16Z</time>
+<name>5150TANK</name>
+<cmt>WATER TANK</cmt>
+<desc>Water Tank</desc>
+<sym>Museum</sym>
+<type>Water Tank</type>
+</wpt>
+</gpx>
